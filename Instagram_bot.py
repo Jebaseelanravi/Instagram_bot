@@ -80,8 +80,8 @@ class InstagramBot:
             unique_photos -= 1
 
 
-username = "jebaseelan_ravi"
-password = "0847401127"
+username = "USERNAME"
+password = "PASSWORD"
 
 ig = InstagramBot(username, password)
 ig.login()
