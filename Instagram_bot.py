@@ -86,7 +86,7 @@ password = "PASSWORD"
 ig = InstagramBot(username, password)
 ig.login()
 
-hashtags = ['sealover']
+hashtags = ['sea']
 
 while True:
     try:
