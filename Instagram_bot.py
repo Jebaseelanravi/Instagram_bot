@@ -79,6 +79,7 @@ class InstagramBot:
                 time.sleep(2)
             unique_photos -= 1
 
+print ("hai")
 #added the comment line
 username = "USERNAME"
 password = "PASSWORD"
